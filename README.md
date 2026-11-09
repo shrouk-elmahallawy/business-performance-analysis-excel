@@ -7,7 +7,7 @@ This project presents an in-depth data analysis of business sales performance, f
 
 ## 🚀 How to View & Download the Excel File
 To view and interact with the complete Excel workbook (including fully functional Pivot Tables, formulas, and charts):
-1. Locate the main Excel file in this repository (e.g., `[business-analysis.xlsx](https://github.com/shrouk-elmahallawy/business-performance-analysis-excel/blob/main/business-analysis.xlsx)`).
+1. Locate the main Excel file in this repository (e.g.,business-analysis.xlsx).
 2. Click on the file name.
 3. On the GitHub file preview page, click the **"View raw"** button (or the download icon) to download the original `.xlsx` file directly to your device. 
 > *Note: For the best and most accurate visual experience of the charts, please open the downloaded file directly in Microsoft Excel.*
